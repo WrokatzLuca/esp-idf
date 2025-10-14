@@ -40,3 +40,5 @@ npm run deploy
 ## License
 
 Apache 2.0
+
+# PR Merge: 2025-10-15 - feature/merge-2298
